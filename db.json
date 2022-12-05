@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "user1",
+      "age": 15,
+      "state": "up",
+      "year": 2020
+    },
+    {
+      "id": 2,
+      "name": "user2",
+      "age": 15,
+      "state": "up",
+      "year": 2020
+    },
+    {
+      "id": 3,
+      "name": "satyam",
+      "age": 25,
+      "state": "mp",
+      "year": 2022
+    },
+    {
+      "id": 4,
+      "name": "owais",
+      "age": 27,
+      "state": "jh",
+      "year": 2023
+    }
+  ]
+}
